@@ -1,12 +1,12 @@
 {
   "app": {
-    "name": "Alain",
-    "description": "Ng-zorro admin panel front-end framework"
+    "name": "税脉客户管理系统",
+    "description": "这里是【税脉客户管理系统】的描述信息"
   },
   "user": {
     "name": "Admin",
     "avatar": "./assets/tmp/img/avatar.jpg",
-    "email": "cipchk@qq.com"
+    "email": "123456@qq.com"
   },
   "menu": [
     {
